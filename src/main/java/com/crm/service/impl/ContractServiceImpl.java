@@ -16,5 +16,6 @@ import org.springframework.stereotype.Service;
  */
 @Service
 public class ContractServiceImpl extends ServiceImpl<ContractMapper, Contract> implements ContractService {
+    1
 
 }
